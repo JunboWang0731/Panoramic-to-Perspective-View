@@ -30,5 +30,7 @@ The percpective view of fov90 at (CENTERx:45, CENTERy:-45)
 
 ![fov90-x0-y0](https://user-images.githubusercontent.com/35421034/113550463-ad470080-9625-11eb-8b96-164dc7e64205.jpg)
 
+# Notifications
+If you JUST WANT Top-to-Down view image, you can use Pano2TopDownDirectly.py which is much more faster than warpOwn.py
 
 
